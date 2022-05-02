@@ -1,1 +1,2 @@
-# 🛠 DEV JBOSS | Configuração do servidor Jboss Linux
+# 🛠 DEV JBOSS | Configuração do serviço Jboss no linux
+
